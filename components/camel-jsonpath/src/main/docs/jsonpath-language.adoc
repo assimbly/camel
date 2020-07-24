@@ -8,7 +8,7 @@
 
 *Since Camel {since}*
 
-Camel supports https://code.google.com/p/json-path/[JSonPath] to allow
+Camel supports https://github.com/json-path/JsonPath/[JSonPath] to allow
 using Expression or Predicate
 on json messages.
 
